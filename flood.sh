@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --help
-# flood.sh {websiteUrl} {numberOfSubprocess}
+# flood.sh {https://kerava.inschool.fi} {90000}
 # 
 
 url=$1
